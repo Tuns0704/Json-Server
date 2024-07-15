@@ -1,0 +1,257 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "All",
+      "value": "All"
+    },
+    {
+      "id": 1,
+      "name": "Hot Dishes",
+      "value": "Hot Dishes"
+    },
+    {
+      "id": 2,
+      "name": "Cold Dishes",
+      "value": "Cold Dishes"
+    },
+    {
+      "id": 3,
+      "name": "Soup",
+      "value": "Soup"
+    },
+    {
+      "id": 4,
+      "name": "Grill",
+      "value": "Grill"
+    },
+    {
+      "id": 5,
+      "name": "Appetizer",
+      "value": "Appetizer"
+    },
+    {
+      "id": 6,
+      "name": "Dessert",
+      "value": "Dessert"
+    }
+  ],
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Spicy seasoned seafood noodles",
+      "image": "assets/item1.png",
+      "category": "Hot Dishes",
+      "typeService": "Dine In",
+      "price": 2.29,
+      "available": 20
+    },
+    {
+      "id": 2,
+      "name": "Salted Pasta with mushroom sauce",
+      "image": "assets/item2.png",
+      "category": "Hot Dishes",
+      "typeService": "Dine In",
+      "price": 2.69,
+      "available": 11
+    },
+    {
+      "id": 3,
+      "name": "Beef dumpling in hot and sour soup",
+      "image": "assets/item3.png",
+      "category": "Hot Dishes",
+      "typeService": "Dine In",
+      "price": 2.99,
+      "available": 16
+    },
+    {
+      "id": 4,
+      "name": "Healthy noodle with spinach leaf",
+      "image": "assets/item4.png",
+      "category": "Hot Dishes",
+      "typeService": "Dine In",
+      "price": 3.29,
+      "available": 22
+    },
+    {
+      "id": 5,
+      "name": "Hot spicy fried rice with omelet",
+      "image": "assets/item5.png",
+      "category": "Hot Dishes",
+      "typeService": "Dine In",
+      "price": 3.49,
+      "available": 13
+    },
+    {
+      "id": 6,
+      "name": "Spicy instant noodle with special omelette",
+      "image": "assets/item6.png",
+      "category": "Hot Dishes",
+      "typeService": "Dine In",
+      "price": 3.59,
+      "available": 17
+    },
+    {
+      "id": 7,
+      "name": "Healthy noodle with spinach leaf",
+      "image": "assets/item3.png",
+      "category": "Hot Dishes",
+      "typeService": "Dine In",
+      "price": 2.29,
+      "available": 22
+    },
+    {
+      "id": 8,
+      "name": "Hot spicy fried rice with omelet",
+      "image": "assets/item2.png",
+      "category": "Hot Dishes",
+      "typeService": "Dine In",
+      "price": 3.29,
+      "available": 22
+    },
+    {
+      "id": 9,
+      "name": "Spicy instant noodle with special omelette",
+      "image": "assets/item1.png",
+      "category": "Hot Dishes",
+      "typeService": "Dine In",
+      "price": 3.59,
+      "available": 22
+    },
+    {
+      "id": 10,
+      "name": "Hot spicy fried rice with omelet",
+      "image": "assets/item2.png",
+      "category": "Cold Dishes",
+      "typeService": "Dine In",
+      "price": 3.29,
+      "available": 22
+    },
+    {
+      "id": 11,
+      "name": "Hot spicy fried rice with omelet",
+      "image": "assets/item2.png",
+      "category": "Cold Dishes",
+      "typeService": "To Go",
+      "price": 3.29,
+      "available": 22
+    },
+    {
+      "id": 12,
+      "name": "Hot spicy fried rice with omelet",
+      "image": "assets/item2.png",
+      "category": "Cold Dishes",
+      "typeService": "To Go",
+      "price": 3.29,
+      "available": 22
+    },
+    {
+      "id": 13,
+      "name": "Hot spicy fried rice with omelet",
+      "image": "assets/item2.png",
+      "category": "Cold Dishes",
+      "typeService": "To Go",
+      "price": 3.29,
+      "available": 22
+    },
+    {
+      "id": 14,
+      "name": "Hot spicy fried rice with omelet",
+      "image": "assets/item2.png",
+      "category": "Cold Dishes",
+      "typeService": "To Go",
+      "price": 3.29,
+      "available": 22
+    },
+    {
+      "id": 15,
+      "name": "Hot spicy fried rice with omelet",
+      "image": "assets/item2.png",
+      "category": "Cold Dishes",
+      "typeService": "Delivery",
+      "price": 3.29,
+      "available": 22
+    },
+    {
+      "id": 16,
+      "name": "Hot spicy fried rice with omelet",
+      "image": "assets/item2.png",
+      "category": "Cold Dishes",
+      "typeService": "Dine In",
+      "price": 3.29,
+      "available": 22
+    },
+    {
+      "id": 17,
+      "name": "Hot spicy fried rice with omelet",
+      "image": "assets/item2.png",
+      "category": "Cold Dishes",
+      "typeService": "Dine In",
+      "price": 3.29,
+      "available": 22
+    },
+    {
+      "name": "Salted Pasta with mushroom sauce",
+      "price": 2.45,
+      "image": "assets/item1.png",
+      "category": "Delivery",
+      "typeService": "Cold Dishes",
+      "available": 30,
+      "id": 18
+    },
+    {
+      "name": "Healthy noodle with spinach leaf",
+      "price": 2.24,
+      "image": "assets/item3.png",
+      "category": "Cold Dishes",
+      "typeService": "To Go",
+      "available": 10,
+      "id": 19
+    },
+    {
+      "name": "Salted Pasta with mushroom sauce",
+      "price": 2.56,
+      "image": "assets/item1.png",
+      "category": "Grill",
+      "typeService": "To Go",
+      "available": 20,
+      "id": 20
+    },
+    {
+      "name": "Salted Pasta with mushroom sauce",
+      "price": 2.55,
+      "image": "assets/item1.png",
+      "category": "Grill",
+      "typeService": "To Go",
+      "available": 21,
+      "id": 21
+    },
+    {
+      "name": "Salted Pasta with mushroom sauce",
+      "price": 2.47,
+      "image": "assets/item1.png",
+      "category": "Cold Dishes",
+      "typeService": "Delivery",
+      "available": 23,
+      "id": 22
+    },
+    {
+      "name": "Hello",
+      "price": 2.1,
+      "image": "assets/item2.png",
+      "category": "Soup",
+      "typeService": "Delivery",
+      "available": 10,
+      "id": 23
+    },
+    {
+      "name": "Hello",
+      "price": 2.12,
+      "image": "assets/item1.png",
+      "category": "Appetizer",
+      "typeService": "To Go",
+      "available": 10,
+      "id": 24
+    }
+  ]
+}
